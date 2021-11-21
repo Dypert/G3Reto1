@@ -1,4 +1,4 @@
-package com.minticciclo4.cacharrero.app.repositories.services;
+package com.minticciclo4.cacharrero.app.services;
 
 import com.minticciclo4.cacharrero.app.model.User;
 import com.minticciclo4.cacharrero.app.repositories.UserRepository;

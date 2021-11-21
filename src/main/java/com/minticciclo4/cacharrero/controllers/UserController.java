@@ -1,7 +1,7 @@
 package com.minticciclo4.cacharrero.controllers;
 
 import com.minticciclo4.cacharrero.app.model.User;
-import com.minticciclo4.cacharrero.app.repositories.services.UserServices;
+import com.minticciclo4.cacharrero.app.services.UserServices;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
